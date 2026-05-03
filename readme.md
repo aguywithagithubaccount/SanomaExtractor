@@ -7,6 +7,7 @@ SanomaExtractor is a series of Python scripts to extract PDFs and resources from
 ```python
 
 # run in "C:\Users\[user]\Sanoma\DATA\.books\[bookid]\BK\pages"
+# change MAX_FOLDERS with the number of the pages of the book
 python svgToPDF.py
 
 # copies and organizes resources
